@@ -48,3 +48,13 @@
   color: #666;
   font-size: 0.9em;
 }
+
+button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  cursor: pointer;
+}

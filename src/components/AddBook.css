@@ -1,0 +1,10 @@
+.add-book-container {
+    text-align: center;
+  }
+  .add-book-container form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 400px;
+    margin: auto;
+  }
